@@ -9570,7 +9570,7 @@ p,
   display: block;
   width: 60px;
   height: 60px;
-  background: #FF4800;
+  background: lightskyblue;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -9585,13 +9585,13 @@ p,
   display: block;
   width: 60px;
   height: 60px;
-  background: #FF4800;
+  background: lightblue;
   border-radius: 50%;
   transition: all 200ms;
 }
 
 .btn-play:hover:after {
-  background: #cc3a00;
+  background: lightskyblue;
 }
 
 .btn-play span {
